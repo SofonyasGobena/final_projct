@@ -1,6 +1,7 @@
 <<<<<<< Updated upstream
 # final_projct4
 trdy\
+<<<<<<< HEAD
 =======
 # final_project
 
@@ -25,3 +26,6 @@ Let us plan to do a commit everyday and pull before each of our working days so 
 
 :) looking forward to working with yall
 >>>>>>> Stashed changes
+=======
+dsd
+>>>>>>> c265e58473ba2d3a6c32361fc2051d836c2b2ea0
